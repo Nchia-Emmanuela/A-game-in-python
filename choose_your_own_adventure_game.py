@@ -1,5 +1,5 @@
 
-print('''"
+print('''
      \\XXXXXX//
       XXXXXXXX
      //XXXXXX\\                      OOOOOOOOOOOOOOOOOOOO
